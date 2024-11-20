@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Wix+Madefor+Display:regular,500,600,700,800);
+*
+{
+    background-color: rgb(39, 32, 58);
+    color: white;
+    font-family: "Wix Madefor Display";
+}
+
+body
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.left
+{
+    float: left;
+}
+
+.right
+{
+    float: right;
+}
+
+.main
+{
+    clear: both;
+}
+
+.images1
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.images2
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#arrow
+{
+    display: block;
+    margin: 0 auto;
+}
+
+#emoji
+{
+    max-width: 75px;
+}
+
+#Bow
+{
+    max-width: 100%;
+}
